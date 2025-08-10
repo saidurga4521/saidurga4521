@@ -30,6 +30,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0B0B45?style=for-the-badge&logo=pytorch&logoColor=red)
+![APIs](https://img.shields.io/badge/API%20Development-%2300A3E0.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ---
 
